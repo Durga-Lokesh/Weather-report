@@ -1,2 +1,1 @@
-# Weather_Report_App
-Weather report page built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeather (WeatherStack) API. Displays current temperature, weather conditions, humidity, and wind speed with a clean and responsive UI.
+Weather Report is a simple and responsive web application that provides real-time weather information for any city. It fetches live data from a weather API and displays key details such as temperature, weather conditions, humidity, and wind speed in a user-friendly interface. Built using HTML, CSS, and JavaScript, this project demonstrates API integration, asynchronous data handling, and dynamic UI updates, making it a great beginner-friendly project for learning web development fundamentals.
